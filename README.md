@@ -1,4 +1,4 @@
-# SMP BONUS Crypto for Payment, Staking, Marketplace platform.
+# SMP Bonus Crypto for Payment, Staking, Marketplace platform.
 
 <div align="center"><img src="https://pkccoin.com/wp-content/uploads/2018/10/500x500.jpg)" /><br />
 </div>
@@ -9,12 +9,12 @@
 </div>
 
 
-# SMP BONUS Marketplace Platform
+# SMP Bonus Marketplace Platform
 
-SMP BONUS Marketplace is an ecommerce platform. We have many products available for sale from members. We use SMP BONUS as a medium of payment. Our platform has compiled products in each category to facilitate product search. And a convenient, fast payment method via Blockchain is safe for customers. And every transaction made through SMP BONUS will receive a 10% discount on every transaction.
+SMP Bonus Marketplace is an ecommerce platform. We have many products available for sale from members. We use SMP Bonus as a medium of payment. Our platform has compiled products in each category to facilitate product search. And a convenient, fast payment method via Blockchain is safe for customers. And every transaction made through SMP Bonus will receive a 10% discount on every transaction.
 
 # Payment gateway
-SMP BONUS ecommerce platform we have create tokens on Binance smart chain as a highly secure blockchain payment gateway with low fees and support for trading on top exchanges. Moreover, our marketing team is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
+SMP Bonus ecommerce platform we have create tokens on Binance smart chain as a highly secure blockchain payment gateway with low fees and support for trading on top exchanges. Moreover, our marketing team is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
 
 # Stake rewards
 Step-by-Step Stake Rewards
