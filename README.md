@@ -1,20 +1,20 @@
-# PKC Coin Crypto for Payment, Staking, Marketplace platform.
+# SMP BONUS Crypto for Payment, Staking, Marketplace platform.
 
 <div align="center"><img src="https://pkccoin.com/wp-content/uploads/2018/10/500x500.jpg)" /><br />
 </div>
 <div align="center">
   <h1><br />
-    <a href="https://www.pkccoin.com/" target="_blank">Go To Website<br />
+    <a href="https://www.smpbonus.com/" target="_blank">Go To Website<br />
     </a></h1>
 </div>
 
 
-# PKC Coin Marketplace Platform
+# SMP BONUS Marketplace Platform
 
-PKC COIN Marketplace is an ecommerce platform. We have many products available for sale from members. We use PKC COIN as a medium of payment. Our platform has compiled products in each category to facilitate product search. And a convenient, fast payment method via Blockchain is safe for customers. And every transaction made through PKC COIN will receive a 10% discount on every transaction.
+SMP BONUS Marketplace is an ecommerce platform. We have many products available for sale from members. We use SMP BONUS as a medium of payment. Our platform has compiled products in each category to facilitate product search. And a convenient, fast payment method via Blockchain is safe for customers. And every transaction made through SMP BONUS will receive a 10% discount on every transaction.
 
 # Payment gateway
-PKC COIN ecommerce platform we have create tokens on Binance smart chain as a highly secure blockchain payment gateway with low fees and support for trading on top exchanges. Moreover, our marketing team is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
+SMP BONUS ecommerce platform we have create tokens on Binance smart chain as a highly secure blockchain payment gateway with low fees and support for trading on top exchanges. Moreover, our marketing team is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
 
 # Stake rewards
 Step-by-Step Stake Rewards
@@ -25,16 +25,16 @@ Keep coins in our wallet Go to swap platform. First connect & confirm wallet, se
 
 Enjoy regular profits You rewards are generated daily until the date lock stake Now it’s time to enjoy your life and finally let your money work for you every day.
 
-# Contact PKCCOIN (PKC)
+# CONTACT SMP BONUS (SMP)
 
-⭕ Website: https://www.pkccoin.com
+⭕ Website: https://www.smpbonus.com
 
-📄 Whitepaper : https://docs.pkccoin.com
+📄 Whitepaper : https://docs.smpbonus.com
 
-👨🏿‍🤝‍👨🏿Twitter : https://twitter.com/mrtime789
+👨🏿‍🤝‍👨🏿Twitter : https://twitter.com/smpbonus
 
-👨🏿‍🤝‍👨🏿Telegram Group : https://t.me/+q0wwJG3m0xdmYmQ1
+👨🏿‍🤝‍👨🏿Telegram Group : https://t.me/
 
-👨🏿‍🤝‍👨🏿Youtube Chanel : https://www.youtube.com/@PKCCOIN
+👨🏿‍🤝‍👨🏿Youtube Chanel : https://www.youtube.com/
 
-🔒 Smart Contract : https://bscscan.com/token/0x6807b69118a225bab89014bd3b5e014438c0665b
+🔒 Smart Contract : https://bscscan.com/token/0xe7a069884a9a8b4a937fac868c75ad8ba3610861
