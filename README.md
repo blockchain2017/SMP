@@ -1,6 +1,6 @@
 # SMP Bonus Crypto for Payment, Staking, Marketplace platform.
 
-<div align="center"><img src="https://pkccoin.com/wp-content/uploads/2018/10/500x500.jpg)" /><br />
+<div align="center"><img src="https://makecoin.live/wp-content/uploads/2022/12/SMPLOGO300.png)" /><br />
 </div>
 <div align="center">
   <h1><br />
