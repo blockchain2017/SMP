@@ -31,10 +31,6 @@ Enjoy regular profits You rewards are generated daily until the date lock stake 
 
 📄 Whitepaper : https://docs.smpbonus.com
 
-👨🏿‍🤝‍👨🏿Twitter : https://twitter.com
-
-👨🏿‍🤝‍👨🏿Telegram Group : https://t.me/
-
-👨🏿‍🤝‍👨🏿Youtube Chanel : https://www.youtube.com/
+👨🏿‍🤝‍👨🏿Telegram Group : https://t.me/+sLv11p9xs004MTE1
 
 🔒 Smart Contract : https://bscscan.com/token/0xe7a069884a9a8b4a937fac868c75ad8ba3610861
