@@ -27,10 +27,14 @@ Enjoy regular profits You rewards are generated daily until the date lock stake 
 
 # CONTACT SMP BONUS (SMP)
 
-⭕ Website: https://www.smpbonus.com
+⭕Website: https://www.smpbonus.com
 
-📄 Whitepaper : https://docs.smpbonus.com
+📄Whitepaper : https://docs.smpbonus.com
 
-👨🏿‍🤝‍👨🏿Telegram Group : https://t.me/+sLv11p9xs004MTE1
+👨🏿‍🤝‍👨🏿Facebook : https://www.facebook.com/BySmartPlusThailand
 
-🔒 Smart Contract : https://bscscan.com/token/0xe7a069884a9a8b4a937fac868c75ad8ba3610861
+👨🏿Telegram Group : https://t.me/+sLv11p9xs004MTE1
+
+🤝🏿Youtube : https://docs.smpbonus.com/media-and-community/vdo-present
+
+🔒Smart Contract : https://bscscan.com/token/0xe7a069884a9a8b4a937fac868c75ad8ba3610861
